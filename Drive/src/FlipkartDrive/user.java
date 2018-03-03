@@ -6,6 +6,7 @@ public class user {
 	user(String name,String country){
 		this.name=name;
 		this.country=country;
+	
 	}
 
 }
